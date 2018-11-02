@@ -28,6 +28,8 @@
 [reference](https://github.com/SUSTC-XLAB/FDM/wiki/reference)
  
 [learning](https://github.com/SUSTC-XLAB/FDM/wiki/learning)
+
+[参考资料]（https://github.com/SUSTC-XLAB/FDM/wiki/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99URL）
 ### 背景资料 ###
 
 尹文壮 南方科技大学硕士
